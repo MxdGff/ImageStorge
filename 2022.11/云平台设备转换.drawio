@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T02:53:32.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZnpyMsUKS_v6hjRGGgV5" version="20.5.1" type="github"><diagram id="RVg4EVnoidol94rYpOU9" name="第 1 页">7VhLc9owEP41OqaDn9hHTJy2M+30wCHtiVFsYdTIkiuLgPvru7LlgGOZpG2SyUwLzKB9arW7n1iDvGV5eC9xtf0scsKQO8sPyLtEruv4rov0Z5Y3HWceGkYhaW6UjowV/UkMc2a4O5qTeqCohGCKVkNmJjgnmRrwsJRiP1TbCDbctcIFGTFWGWZj7jXN1bbjRu78yP9AaLHtd3bCuJOUuFc2J6m3OBf7E5aXIm8phVDdqjwsCdPJ6/PS2V1NSO8Dk4Srpxh4jrqpvY/pquT8i1oFTn1dXQQmNtX0ByY5nN+QQqqtKATHLD1yEyl2PCfa6wyoo84nISpgOsD8TpRqTDHxTglgbVXJjJQcqPp6sv6mXb0LDHV5MJ5boukJrmTz9ZQ4sdLk0ayleruN4MoE4kRAd+fVh5xMo2HVYiczciZ3fTtiWRB1Rs+7LzaghIiSQHxgJwnDit4N48CmXYt7vWNFYWGK+hsFNn7vMNuZnZAbMmUyMyh9+GMnesFF3eZsAQpOVB3axPVyWBX6O9sU65zc0Yzcid4pxNj57VRG3TXsnf2WKrKqcJvmPVwgwz4xoROpyOF8tcbZNQaeAZ+5fWJD7o9QdvqbZnsC42D2QuVwx+VIfZQsUOygNEBJjBJPL6IrlMxG2YM8qGGKMKMFh3UG+SASGDpbFK6vhRGUNM871BIoKb5pXencV4Jy1R4vSFBwqX0BUGsDFSBrJcUtWQomwO8lF1x72VDGHrKsCPurqvnBoGrOuGqRpWj+SxXNew0MlZjrn6I3iqP7hJ8BUviaQPItQIrQIkVJqvGz8FE0R+lccxaOXkDEUagXALAkaRcJiq/+WYy58aMgc7zXRFk4qiioGzjcyB4JHVimJRyXZEoGg2Q2JVNNZbGrdzfnxIqUFfyIY1s4t6TJYBoeC3ZVjhVR1BZnrWAkENzmj+EGmu8NdStyvbB9PWhZ4G8C/bb0raZP9LrX8/Sz86CdI0s/+5Z+frkraj5q6K6X1rbyCikKytdnNEznw7V/mBKuz3W/vRs7Wc1tkjqTtNL9OLnfH6GmqymHcB6T20POJAEAre0IKkVON82EkNaM8lurEWHWpJfdA63dwJ7tWmzUHo4A3Vxbc2dAbt2vl024NtIuL/+vgicOK9a7wDat+POXugsi67gSwbgyN+N+HD5tgAlQvNQPDFoEA0zcWjloEaE01ibRslVeoMhvPad6yNEOQZTYzGEQWra7Awe2cN5SY73uU8fDthl3jfdMExGQxz9+WtnJ32de+gs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-02T03:13:29.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="auXDeaVgnWzI9VK2WwK-" version="20.5.1" type="github">
+  <diagram id="RVg4EVnoidol94rYpOU9" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="31tbs3IESmnnOtS51sWp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="31tbs3IESmnnOtS51sWp-1" target="31tbs3IESmnnOtS51sWp-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31tbs3IESmnnOtS51sWp-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;cfg_devicevo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="31tbs3IESmnnOtS51sWp-2" value="云平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="45" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31tbs3IESmnnOtS51sWp-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;cfg_devicemanage&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="90" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="31tbs3IESmnnOtS51sWp-4" value="设备管理系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="295" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31tbs3IESmnnOtS51sWp-6" value="id&lt;br&gt;deviceid&lt;br&gt;devicename&lt;br&gt;devicedesc&lt;br&gt;devicetype&lt;br&gt;subdevicetype&lt;br&gt;templataid&lt;br&gt;keycode&lt;br&gt;updatetime&lt;br&gt;stationid&lt;br&gt;layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=18;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="15" y="180" width="140" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="31tbs3IESmnnOtS51sWp-7" value="device_id&lt;br&gt;orogin_device_id&lt;br&gt;deviceindex&lt;br&gt;device_name&lt;br&gt;devicecode&lt;br&gt;devicesn&lt;br&gt;description&lt;br&gt;device_type&lt;br&gt;subdevicetype&lt;br&gt;parentnodetype&lt;br&gt;parentnodecode&lt;br&gt;create_time&lt;br&gt;modify_time&lt;br&gt;islink&lt;br&gt;model_id&lt;br&gt;model&lt;br&gt;model_name&lt;br&gt;softwareversion&lt;br&gt;station_id&lt;br&gt;station_name&lt;br&gt;station_code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=18;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="280" y="180" width="160" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="31tbs3IESmnnOtS51sWp-8" value="获取设备管理场站表里的原始场站编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="480" y="10" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQnDBLXF3Xn1QfssL1Yf-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;根据原始场站编码列表查云平台的设备&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="330" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
