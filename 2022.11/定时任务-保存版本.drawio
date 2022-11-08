@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T10:58:39.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QM513bvHPZlcMWA0tPob" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T10:58:51.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="83c-pp57hgiJMGmsz1mP" version="20.5.1" type="github">
   <diagram id="b95fZ1zmA4kZeBO6OFGO" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_rjS_KXNjbJTFbzdUbJ-13" value="历史表里插入一条；&lt;br&gt;实时表当前版本更替；&lt;br&gt;设备管理表 对应设备版本也更替" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="281" y="280" width="379" height="70" as="geometry" />
+          <mxGeometry x="288.5" y="280" width="269" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b_rjS_KXNjbJTFbzdUbJ-14" value="经讨论，本周一开始决定开发使用此方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="25" y="440" width="209" height="60" as="geometry" />
