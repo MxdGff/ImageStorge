@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T11:18:09.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FTeEClC0vl9cbMgoLqZB" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:03:09.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="X-BfunzDNpfyL6rCB9RE" version="20.5.1" type="github">
   <diagram id="b95fZ1zmA4kZeBO6OFGO" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,41 +59,41 @@
         <mxCell id="b_rjS_KXNjbJTFbzdUbJ-14" value="经讨论，本周一开始决定开发使用此方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="25" y="440" width="209" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-1" value="历史版本表" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BubIB92U-EhutdUEbI6g-1" value="历史版本表" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-2" value="实时版本表" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BubIB92U-EhutdUEbI6g-2" value="实时版本表" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-3" value="设备表" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BubIB92U-EhutdUEbI6g-3" value="设备表" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="BubIB92U-EhutdUEbI6g-4" target="BubIB92U-EhutdUEbI6g-5">
+        <mxCell id="BubIB92U-EhutdUEbI6g-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="BubIB92U-EhutdUEbI6g-4" target="BubIB92U-EhutdUEbI6g-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;reportservice&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BubIB92U-EhutdUEbI6g-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;reportservice&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="624.5" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;chargeplatformout&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BubIB92U-EhutdUEbI6g-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;chargeplatformout&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346.5" y="570" width="153" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="BubIB92U-EhutdUEbI6g-6" target="BubIB92U-EhutdUEbI6g-3">
+        <mxCell id="BubIB92U-EhutdUEbI6g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="BubIB92U-EhutdUEbI6g-6" target="BubIB92U-EhutdUEbI6g-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="BubIB92U-EhutdUEbI6g-6" target="BubIB92U-EhutdUEbI6g-5">
+        <mxCell id="BubIB92U-EhutdUEbI6g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="BubIB92U-EhutdUEbI6g-6" target="BubIB92U-EhutdUEbI6g-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;devicemanage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BubIB92U-EhutdUEbI6g-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;devicemanage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="570" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-10" value="r 回传 云平台设备版本信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="BubIB92U-EhutdUEbI6g-10" value="r 回传 云平台设备版本信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="460" y="660" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-11" value="传当前的信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="BubIB92U-EhutdUEbI6g-11" value="传当前的信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="216.5" y="660" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-12" value="对获得的云版本信息分组&lt;br&gt;此处从设备-&amp;gt;版本-&amp;gt;历史版本一次对比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="245" y="710" width="330" height="60" as="geometry" />
+        <mxCell id="BubIB92U-EhutdUEbI6g-12" value="对获得的云版本信息分组&lt;br&gt;此处从①设备-&amp;gt;②版本-&amp;gt;③历史版本 依次对比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="219" y="710" width="390" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
