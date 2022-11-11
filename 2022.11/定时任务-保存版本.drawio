@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T03:03:09.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="X-BfunzDNpfyL6rCB9RE" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T03:05:49.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="irErgrJYtySrAI2hs9jd" version="20.5.3" type="github">
   <diagram id="b95fZ1zmA4kZeBO6OFGO" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,8 @@
         <mxCell id="BubIB92U-EhutdUEbI6g-11" value="传当前的信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="216.5" y="660" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BubIB92U-EhutdUEbI6g-12" value="对获得的云版本信息分组&lt;br&gt;此处从①设备-&amp;gt;②版本-&amp;gt;③历史版本 依次对比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="219" y="710" width="390" height="60" as="geometry" />
+        <mxCell id="BubIB92U-EhutdUEbI6g-12" value="查询云版本信息&lt;br&gt;分组处理&lt;br&gt;此处从①设备-&amp;gt;②版本-&amp;gt;③历史版本 依次对比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="219" y="700" width="390" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
