@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T12:27:45.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xMMzkbzJpnjIPZlkm32V" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T03:28:32.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OhiYMOZ50fyLmd40WXvv" version="20.5.3" type="github">
   <diagram id="00eXHs9_zdaWfhm85zCv" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry x="600" y="170" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Agf-tljnODpQviQYXlhY-5" value="实时告警" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="340" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="334.77" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Agf-tljnODpQviQYXlhY-6" value="实时数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="340" y="280" width="100" height="40" as="geometry" />
+          <mxGeometry x="334.77" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Agf-tljnODpQviQYXlhY-7" value="获取设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="635" y="240" width="100" height="40" as="geometry" />
@@ -37,14 +37,17 @@
         <mxCell id="Agf-tljnODpQviQYXlhY-11" value="获取设备版本信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="600" y="400" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ImkKBHsJfZAhaL8Go4hQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Agf-tljnODpQviQYXlhY-12" target="ImkKBHsJfZAhaL8Go4hQ-3">
+        <mxCell id="ImkKBHsJfZAhaL8Go4hQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Agf-tljnODpQviQYXlhY-12" target="ImkKBHsJfZAhaL8Go4hQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Agf-tljnODpQviQYXlhY-12" value="Redis存一个时间，用来对比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ImkKBHsJfZAhaL8Go4hQ-3" value="DB3 Hash SyncDeviceVersionTime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ImkKBHsJfZAhaL8Go4hQ-3" value="DB3 Hash SyncDeviceVersionTime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="15" y="510" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XAEb3ZzDWm_bKJPQPqAN-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;定时同步版本&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="10" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
