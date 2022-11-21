@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T02:58:31.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hJe4T3et1jfxiqdvtt31" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T03:43:41.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dZxsHZCD8aUApYYlV0K5" version="20.5.3" type="github">
   <diagram id="rmfOzj6teA9b7-657kQu" name="第 1 页">
-    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGjWshSUO92Bd7ZKQkbG-13" value="上传订单后，上层业务解析存储实时数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oGjWshSUO92Bd7ZKQkbG-11">
+        <mxCell id="oGjWshSUO92Bd7ZKQkbG-13" value="收到订单后，上层业务处理过程数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oGjWshSUO92Bd7ZKQkbG-11">
           <mxGeometry x="-0.235" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -89,11 +89,11 @@
         <mxCell id="oGjWshSUO92Bd7ZKQkbG-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="oGjWshSUO92Bd7ZKQkbG-26" target="oGjWshSUO92Bd7ZKQkbG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oGjWshSUO92Bd7ZKQkbG-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;停止充电时移除此标志&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oGjWshSUO92Bd7ZKQkbG-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;收到订单时移除此标志&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="410" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oGjWshSUO92Bd7ZKQkbG-36" value="标志" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="435" y="490" width="60" height="30" as="geometry" />
+        <mxCell id="oGjWshSUO92Bd7ZKQkbG-36" value="Hash ChargingDataStatus&lt;br&gt;Key OderID&lt;br&gt;Value CanID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
