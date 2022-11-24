@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T10:24:59.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mu7SQNexpQ05eJl73mgq" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T10:47:29.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QKSJaU4Clf-K4rBLfmaI" version="20.5.3" type="github">
   <diagram id="dgZYzYbVHFgfllGfHpen" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,6 +52,11 @@
         <mxCell id="2jEac_9kI1eQyNkjSI10-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2jEac_9kI1eQyNkjSI10-17" target="2jEac_9kI1eQyNkjSI10-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="546" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M0cy0vxusFebnJJ5cNh3-1" value="正常流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Crimson Pro;" vertex="1" connectable="0" parent="2jEac_9kI1eQyNkjSI10-19">
+          <mxGeometry x="0.0732" relative="1" as="geometry">
+            <mxPoint x="-29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2jEac_9kI1eQyNkjSI10-17" value="设备已经应答/&lt;br&gt;设备已经处于相应状态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
