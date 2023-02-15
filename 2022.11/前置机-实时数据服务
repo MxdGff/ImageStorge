@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T06:04:48.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8LgtXKz9ugU81ZMxfSoK" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T06:16:06.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NOSZ9o0y_UIL2UKuH2d9" version="20.8.20" type="github">
   <diagram name="第 1 页" id="drGF3sU_VuhCSBvvcNPU">
     <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7iUkxGiy7QoIQFteAUiu-13" target="7iUkxGiy7QoIQFteAUiu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7iUkxGiy7QoIQFteAUiu-13" value="SynServerData初始化服务参数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="10" y="350" width="140" height="50" as="geometry" />
         </mxCell>
@@ -105,7 +108,16 @@
           <mxGeometry x="184" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7iUkxGiy7QoIQFteAUiu-32" value="DB2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="345" y="250" width="60" height="40" as="geometry" />
+          <mxGeometry x="319" y="310" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="7iUkxGiy7QoIQFteAUiu-39" target="7iUkxGiy7QoIQFteAUiu-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-39" value="RequestInfo获取配置信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="430" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-43" value="PollingTime 间隔时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="171" y="460" width="106" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
