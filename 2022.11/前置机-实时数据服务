@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T06:16:06.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NOSZ9o0y_UIL2UKuH2d9" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T06:47:46.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ttFZ792mEX4Ftx6DMmXW" version="20.8.20" type="github">
   <diagram name="第 1 页" id="drGF3sU_VuhCSBvvcNPU">
     <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         <mxCell id="7iUkxGiy7QoIQFteAUiu-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="7iUkxGiy7QoIQFteAUiu-18" target="7iUkxGiy7QoIQFteAUiu-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7iUkxGiy7QoIQFteAUiu-18" target="7iUkxGiy7QoIQFteAUiu-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7iUkxGiy7QoIQFteAUiu-18" value="device" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="184" y="300" width="80" height="30" as="geometry" />
         </mxCell>
@@ -118,6 +121,24 @@
         </mxCell>
         <mxCell id="7iUkxGiy7QoIQFteAUiu-43" value="PollingTime 间隔时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="171" y="460" width="106" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-47" value="DeviceInfoDic&lt;br&gt;设备列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="161" y="220" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-50" value="OfflineDeviceTh&lt;br&gt;离线设备处理线程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="184" y="524.5" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-51" value="SendRealDataRequestForOffLineDeviceTh&lt;br&gt;离线设备定时获取实时数据" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="61" y="600" width="436" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-52" value="GetRealDataList获取实时数据列表" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="184" y="680" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-54" value="SendLoginRequestRealData为新登录设备发送实时数据请求" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="319" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-55" value="DeleteTimeOutRealDataTh&lt;br&gt;删除过期实时数据" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="840" width="276" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
