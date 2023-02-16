@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T08:57:20.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Nhrawk908Bgo3O2r3Z8b" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T08:57:41.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2rkyLIK1I8k2hK-4CW6-" version="20.8.20" type="github">
   <diagram name="第 1 页" id="drGF3sU_VuhCSBvvcNPU">
     <mxGraphModel dx="1195" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,8 +124,8 @@
         <mxCell id="7iUkxGiy7QoIQFteAUiu-39" value="RequestInfo获取轮询时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="22.5" y="430" width="115" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7iUkxGiy7QoIQFteAUiu-43" value="PollingTime 间隔时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="171" y="460" width="106" height="45" as="geometry" />
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-43" value="PollingTime" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="174.5" y="460" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7iUkxGiy7QoIQFteAUiu-47" value="DeviceInfoDic&lt;br&gt;设备列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="161" y="220" width="126" height="50" as="geometry" />
