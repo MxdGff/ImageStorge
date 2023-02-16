@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T10:02:31.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OicpCKRj7NscYMmbxDDW" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T10:02:40.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="70yq8m5mMf88IWJ5KkhD" version="20.8.20" type="github">
   <diagram name="第 1 页" id="drGF3sU_VuhCSBvvcNPU">
     <mxGraphModel dx="1195" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -379,11 +379,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="284" y="375.0000000000001" as="targetPoint" />
             <mxPoint x="264" y="435" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ePZFvNenLMoswyDU6XBD-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" source="ePZFvNenLMoswyDU6XBD-123" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="171" y="482.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ePZFvNenLMoswyDU6XBD-123" value="RequestInfo获取轮询时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
