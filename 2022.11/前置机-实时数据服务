@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T09:14:36.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wTtiQ1hI9Rpk-C3LPNaN" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T09:54:15.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_cDfxbkBl0Z9qN9SYYMz" version="20.8.20" type="github">
   <diagram name="第 1 页" id="drGF3sU_VuhCSBvvcNPU">
     <mxGraphModel dx="1195" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,8 +124,8 @@
         <mxCell id="7iUkxGiy7QoIQFteAUiu-39" value="RequestInfo获取轮询时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="22.5" y="430" width="115" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7iUkxGiy7QoIQFteAUiu-43" value="PollingTime" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="174.5" y="460" width="99" height="30" as="geometry" />
+        <mxCell id="7iUkxGiy7QoIQFteAUiu-43" value="PollingTime 间隔时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="171" y="460" width="106" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7iUkxGiy7QoIQFteAUiu-47" value="DeviceInfoDic&lt;br&gt;设备列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="161" y="220" width="126" height="50" as="geometry" />
@@ -275,6 +275,33 @@
         </mxCell>
         <mxCell id="ePZFvNenLMoswyDU6XBD-77" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#000000&quot;&gt;设备列表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="719" y="1115" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="ePZFvNenLMoswyDU6XBD-79" target="ePZFvNenLMoswyDU6XBD-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-79" value="GenerateServiceRealData(realData, devices, structs)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="189" y="1420" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.865;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="ePZFvNenLMoswyDU6XBD-80" target="ePZFvNenLMoswyDU6XBD-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-80" value="GetRealDataDevice(realData, devices)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1510" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.875;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="ePZFvNenLMoswyDU6XBD-81" target="ePZFvNenLMoswyDU6XBD-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-81" value="GetRealDataStruct(realData, structs, deviceInfo)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="212.75" y="1570" width="402.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-82" value="ServiceRealDataInfo(realData, deviceInfo, dataStruct)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="192.75" y="1630" width="442.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-84" value="&lt;b&gt;生成实时数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePZFvNenLMoswyDU6XBD-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="1480" width="508" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
