@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T06:21:21.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AAGUnSazxCLMarFYqjq_" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T06:22:15.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NwnizkROEzVWKSChVXMU" version="21.0.2" type="github">
   <diagram name="第 1 页" id="drGF3sU_VuhCSBvvcNPU">
     <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -440,13 +440,16 @@
           <mxGeometry x="179" y="1410" width="272" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ePmlmU0s5UQ8INpyz-9I-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Redis-DB2-SetRealData&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1410" width="170" height="30" as="geometry" />
+          <mxGeometry x="470" y="1410" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ePmlmU0s5UQ8INpyz-9I-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DeviceCode&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="318" y="1460" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ePmlmU0s5UQ8INpyz-9I-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Redis-DB2-&lt;/font&gt;DeviceByCode" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="490.5" y="1500" width="170" height="30" as="geometry" />
+          <mxGeometry x="470" y="1500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePmlmU0s5UQ8INpyz-9I-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ePmlmU0s5UQ8INpyz-9I-7" target="ePmlmU0s5UQ8INpyz-9I-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
