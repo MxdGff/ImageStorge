@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T06:35:38.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="I0yygzrHdxxaDK5dOkPv" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T06:35:52.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GiX1vmPF4alAxKQ_p7AF" version="21.0.2" type="github">
   <diagram name="第 1 页" id="drGF3sU_VuhCSBvvcNPU">
     <mxGraphModel dx="1195" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -297,8 +297,8 @@
         <mxCell id="ePZFvNenLMoswyDU6XBD-82" value="ServiceRealDataInfo(realData, deviceInfo, dataStruct)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="188.25" y="1849" width="442.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ePZFvNenLMoswyDU6XBD-84" value="&lt;b&gt;生成实时数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="349" y="1599" width="120" height="30" as="geometry" />
+        <mxCell id="ePZFvNenLMoswyDU6XBD-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;生成实时数据&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="354" y="1599" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ePZFvNenLMoswyDU6XBD-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#FF0000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
