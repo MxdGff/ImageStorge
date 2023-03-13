@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T08:41:21.689Z" agent="pan.baidu.com" etag="XamYnH0PGsrITAYsR5kn" version="21.0.6" type="github">
-  <diagram name="第 1 页" id="qzjbJp0SJKlBbVhxzdFy">
+<mxfile host="app.diagrams.net" modified="2023-03-13T09:12:48.373Z" agent="pan.baidu.com" etag="EFoY5kKR1vKtB8p7KDNe" version="21.0.6" type="github">
+  <diagram name="实时数据服务" id="qzjbJp0SJKlBbVhxzdFy">
     <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -150,7 +150,7 @@
         <mxCell id="3V2ApBN1q9oCJSv3e9en-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;处理过期实时数据，修改设备通信通讯状态&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="229" y="40" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ah8qyqJNzAA6U1xZYy3g-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;配置接口化，待部署后，下一次进行开发&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ah8qyqJNzAA6U1xZYy3g-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;配置接口化，待部署后，下一次进行开发&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4" y="965" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
