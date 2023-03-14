@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:59:26.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="y1PSBUuvc96GhRCthKkq" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T08:12:51.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2lCnVxsaqvK1TckeJEdM" version="21.0.6" type="github">
   <diagram name="实时数据服务" id="qzjbJp0SJKlBbVhxzdFy">
     <mxGraphModel dx="1195" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="gNWphdNRgwT6iKIO3OJ0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gNWphdNRgwT6iKIO3OJ0-10" target="gNWphdNRgwT6iKIO3OJ0-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gNWphdNRgwT6iKIO3OJ0-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;DeviceInfoDic&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNWphdNRgwT6iKIO3OJ0-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;DeviceInfoDic&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="368.5" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gNWphdNRgwT6iKIO3OJ0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gNWphdNRgwT6iKIO3OJ0-22" target="gNWphdNRgwT6iKIO3OJ0-10">
@@ -204,8 +204,10 @@
         <mxCell id="gNWphdNRgwT6iKIO3OJ0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gNWphdNRgwT6iKIO3OJ0-28" target="gNWphdNRgwT6iKIO3OJ0-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gNWphdNRgwT6iKIO3OJ0-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gNWphdNRgwT6iKIO3OJ0-9" target="gNWphdNRgwT6iKIO3OJ0-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gNWphdNRgwT6iKIO3OJ0-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gNWphdNRgwT6iKIO3OJ0-28" target="gNWphdNRgwT6iKIO3OJ0-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gNWphdNRgwT6iKIO3OJ0-28" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px;&quot;&gt;SynDeviceInfo()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="1080" width="120" height="40" as="geometry" />
@@ -219,10 +221,10 @@
         <mxCell id="gNWphdNRgwT6iKIO3OJ0-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;做成两个接口，取消初始化数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="34" y="1231" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gNWphdNRgwT6iKIO3OJ0-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查设备信息，存DeviceByCode和DeviceInfoDic&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNWphdNRgwT6iKIO3OJ0-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查设备信息，存DeviceByCode和DeviceInfoDic&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="43" y="1290" width="232" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gNWphdNRgwT6iKIO3OJ0-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查信号、信号意义、字典表等信息，结合设备类型生成实时数据配置&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNWphdNRgwT6iKIO3OJ0-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;查信号、信号意义、字典表等信息，结合设备类型生成实时数据配置&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="29" y="1350" width="260" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNWphdNRgwT6iKIO3OJ0-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;隔一段时间执行一次&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
