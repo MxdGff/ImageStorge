@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T07:15:15.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KZqo0VxcPl-l8Kfb5831" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-15T07:18:39.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tyZ6rjuUJqkNNBNKTezV" version="21.0.6" type="github" pages="2">
   <diagram name="实时数据服务" id="qzjbJp0SJKlBbVhxzdFy">
     <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -176,6 +176,9 @@
         <mxCell id="vfQ78StCkpn7h1T3o8xN-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CheckTimeStampTh()&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="320" width="161" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lhuYJGAOe2wVdihZFZ6T-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vfQ78StCkpn7h1T3o8xN-9" target="lhuYJGAOe2wVdihZFZ6T-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vfQ78StCkpn7h1T3o8xN-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;InitRealDataStruct(RequestDeviceTypeList, signals, meanings, dictionarys)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380.5" y="535" width="319.5" height="50" as="geometry" />
         </mxCell>
@@ -199,9 +202,6 @@
         </mxCell>
         <mxCell id="vfQ78StCkpn7h1T3o8xN-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;GetDeviceOffLine()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="321" width="142" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vfQ78StCkpn7h1T3o8xN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vfQ78StCkpn7h1T3o8xN-20" target="vfQ78StCkpn7h1T3o8xN-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vfQ78StCkpn7h1T3o8xN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vfQ78StCkpn7h1T3o8xN-20" target="vfQ78StCkpn7h1T3o8xN-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -253,6 +253,9 @@
         </mxCell>
         <mxCell id="lhuYJGAOe2wVdihZFZ6T-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SetStructTag(接口)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="128.5" y="100" width="141" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lhuYJGAOe2wVdihZFZ6T-3" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#97d077&quot;&gt;RealDataStruct&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480.25" y="610" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
