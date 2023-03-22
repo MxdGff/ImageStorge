@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T07:20:15.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="drzcsFP9IsFQ0FjJJVQM" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-22T02:20:28.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iZ_Nz77e2FptU3JLwQuQ" version="21.0.10" type="github" pages="2">
   <diagram name="实时数据服务" id="qzjbJp0SJKlBbVhxzdFy">
-    <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,8 +147,8 @@
         <mxCell id="lw90eLqm_Cqn9MWrDSKj-114" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;添加通讯状态为在线&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="840" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3V2ApBN1q9oCJSv3e9en-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;处理过期实时数据，修改设备通信通讯状态&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="229" y="40" width="370" height="40" as="geometry" />
+        <mxCell id="3V2ApBN1q9oCJSv3e9en-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;处理过期实时数据，修改设备通信状态&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="249" y="40" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
