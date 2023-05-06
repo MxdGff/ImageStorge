@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T05:40:03.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dm6nCsCu5gTbkCPN5Ann" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T05:54:44.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="U4_0fUl7ug83qmSGa9oW" version="21.2.3" type="github">
   <diagram name="第 1 页" id="w1jAAvUAg38otfv67TeJ">
     <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,8 +75,7 @@
             <Array as="points">
               <mxPoint x="365" y="320" />
               <mxPoint x="140" y="320" />
-              <mxPoint x="140" y="620" />
-              <mxPoint x="160" y="620" />
+              <mxPoint x="140" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -123,6 +122,19 @@
         </mxCell>
         <mxCell id="qTpEtW8gdlDvVubzDMPF-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;桩上发F4校验升级是否成功&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="268.5" y="710" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qTpEtW8gdlDvVubzDMPF-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qTpEtW8gdlDvVubzDMPF-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="364" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTpEtW8gdlDvVubzDMPF-61" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;校验出错禁止升级&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qTpEtW8gdlDvVubzDMPF-60">
+          <mxGeometry x="-0.0185" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qTpEtW8gdlDvVubzDMPF-50" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;平台下发F4校验正确/校验出错禁止升级&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="228.5" y="750" width="270" height="30" as="geometry" />
